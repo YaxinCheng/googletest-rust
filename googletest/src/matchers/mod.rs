@@ -56,6 +56,7 @@ mod subset_of_matcher;
 mod superset_of_matcher;
 mod tuple_matcher;
 mod unordered_elements_are_matcher;
+mod result_of_matcher;
 
 pub use anything_matcher::anything;
 pub use char_count_matcher::char_count;
